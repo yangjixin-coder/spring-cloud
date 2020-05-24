@@ -1,0 +1,4 @@
+spring:
+profiles:
+active: dev1 #代表使用application-dev1.yml配置文件
+
